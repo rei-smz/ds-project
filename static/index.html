@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="utf-8">
+        <script src="./js/jquery.min.js"></script>
+        <link href="./css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+        <script src="./js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+        <script src="./js/control.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>test</title>
+    </head>
+    <body>
+        <div class="container-fluid">
+            <div class="row">
+                <h1 style="text-align: center;">英沃卢森大学导航模拟</h1>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <h5>添加学生</h5>
+                    <div class="form-group">
+                        <input type="name" class="form-control" id="stu_name" placeholder="学生姓名">
+                        <input type="position" class="form-control" id="stu_position" placeholder="初始位置" style="margin-top: 10px;">
+                    </div>
+                    <input type="button" class="btn btn-primary" value="添加" style="margin-top: 10px;">
+                    <h5 style="margin-top: 10px;">导航控制</h5>
+                    <div class="form-group">
+                        <h6>将学生</h6>
+                        <select class="form-control" id="choose_stu" style="width: min-content; position: absolute; margin-top: -35px; margin-left: 55px;">
+                            <option>选择学生…</option>
+                        </select>
+                        <label for="nav_dest">导航至</label>
+                        <input class="form-control" id="nav_dest" placeholder="导航目的地/逻辑位置">
+                        <h6 style="margin-top: 20px;">导航策略</h6>
+                        <select class="form-control" id="nav_method" style="width: min-content; position: absolute; margin-top: -35px; margin-left: 70px;">
+                            <option>最短距离策略</option>
+                            <option>最短时间策略</option>
+                            <option>途径最短距离策略</option>
+                            <option>交通工具的最短时间策略</option>
+                        </select>
+                        <button class="btn btn-success" style="margin-top: 10px;" id="nav_control" onclick="StartNav()">开始导航 ➤</button>
+                        <button class="btn btn-primary" id="get_facility_nearby" style="margin-top: 10px;" onclick="GetFacility()">获取周围设施</button>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <h5>行程进度</h5>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5 class="card-title">实时模拟信息</h5>
+                            <button class="btn btn-primary" style="position: absolute; right: 5px; top: 5px;" onclick="ClearOutput()">清除</button>
+                        </div>
+                        <div class="card-body" id="output"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
