@@ -1,20 +1,18 @@
 package main
 
-/*type Location struct {
-	name string
-	locationName string
-}*/
 
 var locationInfo map[string]string //学生位置信息，格式为["名字"]: "位置"
 
 type Point struct {
 	pointType 	int //地点类型，0为设施或楼层，1为路口或校门等其他地点
+	schoolId 	int //校区编号
 	name 		string
 }
 
 type Road struct {
 	startName 	   string
 	endName        string
+	schoolId 	   int //校区编号
 	length         int
 	isBikeRoad     bool
 	crowdedForWalk float64 //步行的拥挤度
