@@ -1,0 +1,2059 @@
+{
+  "Port": 2333,
+  "Point": [
+    {
+      "PointName": "雁南一路1",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南一路2",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南一路3",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南二路1",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南二路2",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南二路3",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南草坪1",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南草坪2",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南草坪3",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南草坪4",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "鸿雁路6",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "鸿雁路5",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "鸿雁路4",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "鸿雁路3",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "鸿雁路2",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "鸿雁路1",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "鸿雁路7",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "鸿雁路8",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "鸿雁路9",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "鸿雁路10",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "学活路1",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北一路1",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北一路2",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北一路3",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北一路4",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北一路5",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北二路1",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北二路2",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北二路3",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北二路4",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北二路5",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北二路6",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北二路7",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "国脉路1",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "国脉西路1",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "国脉西路2",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "国脉西路3",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北绿地1",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北绿地2",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "宿舍路1",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "宿舍路2",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "宿舍路3",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "宿舍路4",
+      "PointType": 1,
+      "schoolId": 0
+    },
+    {
+      "PointName": "西门",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "基建处",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "快递站",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "地下商超",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北B",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北C",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北D1",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北D2",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁北E",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "信息楼S1",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S2",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S3",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-楼梯间1",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-楼梯间2",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-电梯",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-淋浴间",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-卫生间",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-水房",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-自习室",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-201",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-202",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-203",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-204",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-205",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-206",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-207",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-208",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-209",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-210",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-211",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-212",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-213",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-214",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-215",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-216",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-217",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-218",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-219",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-220",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-221",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-222",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-223",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-224",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-225",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-226",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-227",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-228",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-229",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-230",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-231",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-232",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-233",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-234",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-235",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-236",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-237",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-238",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-239",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-240",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-241",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-242",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-243",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S4-2楼-244",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S5",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "雁南S6",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "学生食堂1",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "学生食堂2",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "学生食堂3",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "学生食堂4",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教工食堂1",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教工食堂2",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "超市",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "运营商",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "邮局",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "学活中心",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "自习室",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "图书馆",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "图书馆-2层",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "图书馆-3层",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "图书馆-4层",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "图书馆-5层",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-地下1层",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N101",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N102",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N103",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N104",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N105",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N106",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N107",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N108",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N109",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N110",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N111",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N112",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N113",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N114",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N115",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-1层-N116",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层-N201",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层-N202",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层-N203",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层-N204",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层-N205",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层-N206",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层-N207",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层-N208",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层-N209",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层-N210",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层-N211",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层-N212",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层-N213",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-2层-N214",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-3层",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-3层-N301",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-3层-N302",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-3层-N303",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-3层-N304",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-3层-N305",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-3层-N306",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-3层-N307",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-3层-N308",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-3层-N309",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-3层-N310",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-3层-N311",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-3层-N312",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-4层",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-4层-N401",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-4层-N402",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-4层-N403",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-4层-N404",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-4层-N405",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-4层-N406",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-4层-N407",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-4层-N408",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-4层-N409",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼N-4层-N410",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-地下1层",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S101",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S102",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S103",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S104",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S105",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S106",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S107",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S108",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S109",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S110",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S111",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S112",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S113",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S114",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S115",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-1层-S116",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层-S201",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层-S202",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层-S203",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层-S204",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层-S205",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层-S206",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层-S207",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层-S208",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层-S209",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层-S210",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层-S211",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层-S212",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层-S213",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-2层-S214",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-3层",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-3层-S301",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-3层-S302",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-3层-S303",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-3层-S304",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-3层-S305",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-3层-S306",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-3层-S307",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-3层-S308",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-3层-S309",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-3层-S310",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-3层-S311",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-3层-S312",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-4层",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-4层-S401",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-4层-S402",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-4层-S403",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-4层-S404",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-4层-S405",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-4层-S406",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-4层-S407",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-4层-S408",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-4层-S409",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S-4层-S410",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "教学楼S1",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "咖啡厅",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "学院楼北",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "学院楼南",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "医务室",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "运动场",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "办公楼",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "东配楼",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "报告厅",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "实验楼",
+      "PointType": 0,
+      "schoolId": 0
+    },
+    {
+      "PointName": "本部西门",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "本部北门",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "本部东北门",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "本部东门",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "本部南门",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "西路1",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "西路2",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "西路3",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "西路4",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "西路5",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "西路6",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "西路7",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "公寓路1",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "公寓路2",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "公寓路3",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "公寓路4",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "公寓路5",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "公寓路6",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "主干道1",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "主干道2",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "主干道3",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "主干道4",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "主干道5",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "主干道6",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "主干道7",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "主干道8",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "主干道9",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "主干道10",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "主干道11",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "主干道12",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "生活区1",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "生活区2",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教学楼区1",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教学楼区2",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教学楼区3",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教学楼区4",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "南家属区",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "东路1",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "东路2",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "东路3",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "东路4",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "东路5",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "东路6",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "东路7",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "北家属区1",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "北家属区2",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "北家属区3",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "体育区1",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "体育区2",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "体育区3",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "体育区4",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "体育区5",
+      "PointType": 1,
+      "schoolId": 1
+    },
+    {
+      "PointName": "青年公寓",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学一公寓",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学二公寓",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学三公寓",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学四公寓",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学五公寓",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学六公寓",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学八公寓",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学九公寓",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学十一公寓",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学十三公寓",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学二十九公寓",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "北邮科技酒店",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "鸿通楼",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "本部邮局",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "移动营业厅",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "停车坪",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教九",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "校训石",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "主席像",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "校医院",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "零壹时光咖啡",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "南区超市",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "商店",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "电信营业厅",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "澡堂",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "联通营业厅",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "水房",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学苑超市",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "图片社",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "茗香吧",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "MAAN咖啡",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学生处心理健康教育中心",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学苑书屋",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "小松林",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "本部图书馆",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "时光广场",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "后勤楼",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "行政办公楼",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "主楼",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "中门邮局",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "中门",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "青年教师公寓",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "保卫处",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "网球场",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "排球场",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "游泳馆",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "体育场",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "可信网络通信协同创新中心",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "北邮幼儿园",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "北京交通大学附属中学",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "明光楼出版社",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "家属楼1",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "家属楼2",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "家属楼3",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "家属楼4",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "家属楼5",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "家属楼6",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "家属楼7",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "家属楼8",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "家属楼9",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "家属楼10",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "家属楼11",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学十公寓1",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学十公寓2",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学十公寓3",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "留学生公寓1",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "留学生公寓2",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "经管楼1",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "经管楼2",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "综合食堂1",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "综合食堂2",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教一楼1",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教一楼2",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教一楼3",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教二楼1",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教二楼2",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教二楼3",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教三楼1",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教三楼2",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教三楼3",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教四楼1",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教四楼2",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "教四楼3",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学活中心1",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "学活中心2",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "科学会堂1",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "科学会堂2",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "体育馆1",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "体育馆2",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "科研大楼1",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "科研大楼2",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "本部学生食堂1",
+      "PointType": 0,
+      "schoolId": 1
+    },
+    {
+      "PointName": "本部学生食堂2",
+      "PointType": 0,
+      "schoolId": 1
+    }
+
+  ],
+  "Logical": [
+    {
+      "LogicalName": "三点几了，饮茶先啦",
+      "PointName": [ "咖啡厅" ]
+    },
+    {
+      "LogicalName": "宿舍",
+      "PointName": [ "雁南S4-211" ]
+    },
+    {
+      "LogicalName": "食堂",
+      "PointName": [ "学生食堂1", "学生食堂2", "学生食堂3", "学生食堂4", "教工食堂1", "教工食堂2","本部学生食堂1", "本部学生食堂2", "综合食堂1", "综合食堂2", "教工餐厅" ]
+    },
+    {
+      "LogicalName": "教学楼",
+      "PointName": [ "教学楼N", "教学楼S" ]
+    },
+    {
+      "LogicalName": "草坪",
+      "PointName": [ "雁北绿地1", "", "雁北绿地2", "雁南草坪1", "雁南草坪2", "雁南草坪3", "雁南草坪4" ]
+    },
+    {
+      "LogicalName": "学十公寓",
+      "PointName": [ "学十公寓1", "学十公寓2", "学十公寓3" ]
+    },
+    {
+      "LogicalName": "留学生公寓",
+      "PointName": [ "留学生公寓1", "留学生公寓2" ]
+    },
+    {
+      "LogicalName": "经管楼",
+      "PointName": [ "经管楼1", "经管楼2" ]
+    },
+    {
+      "LogicalName": "综合食堂",
+      "PointName": [ "综合食堂1", "综合食堂2" ]
+    },
+    {
+      "LogicalName": "教一楼",
+      "PointName": [ "教一楼1", "教一楼2", "教一楼3" ]
+    },
+    {
+      "LogicalName": "教二楼",
+      "PointName": [ "教二楼1", "教二楼2", "教二楼3" ]
+    },
+    {
+      "LogicalName": "教三楼",
+      "PointName": [ "教三楼1", "教三楼2", "教三楼3" ]
+    },
+    {
+      "LogicalName": "教四楼",
+      "PointName": [ "教四楼1", "教四楼2", "教四楼3" ]
+    },
+    {
+      "LogicalName": "本部学活中心",
+      "PointName": [ "学活中心1", "学活中心2" ]
+    },
+    {
+      "LogicalName": "科学会堂",
+      "PointName": [ "科学会堂1", "科学会堂2" ]
+    },
+    {
+      "LogicalName": "体育馆",
+      "PointName": [ "体育馆1", "体育馆2" ]
+    },
+    {
+      "LogicalName": "科研大楼",
+      "PointName": [ "科研大楼1", "科研大楼2" ]
+    },
+    {
+      "LogicalName": "本部学生食堂",
+      "PointName": [ "本部学生食堂1", "本部学生食堂2" ]
+    },
+    {
+      "LogicalName": "本部食堂",
+      "PointName": [ "本部学生食堂1", "本部学生食堂2", "综合食堂1", "综合食堂2", "教工餐厅" ]
+    }
+  ]
+}

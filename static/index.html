@@ -7,7 +7,7 @@
         <script src="./js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
         <script src="./js/control.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>test</title>
+        <title>导航模拟</title>
     </head>
     <body>
         <div class="container-fluid">
@@ -25,7 +25,7 @@
             </div>
             
             <div class="row">
-                <h1 style="text-align: center;">Involution University导航模拟</h1>
+                <h1 style="text-align: center;">导航模拟</h1>
             </div>
 
             <div class="row">
@@ -35,7 +35,7 @@
                         <input type="name" class="form-control" id="stu_name" placeholder="学生姓名">
                         <input type="position" class="form-control" id="stu_position" placeholder="初始位置" style="margin-top: 10px;">
                     </div>
-                    <button type="button" class="btn btn-primary" style="margin-top: 10px;" onclick="AddStudent()" data-bs-toggle="modal" data-bs-target="#pop_info">添加学生</button>
+                    <button type="button" class="btn btn-primary" style="margin-top: 10px;" onclick="AddStudent()">添加学生</button>
                     <hr>
                     <h5 style="margin-top: 10px;">导航控制</h5>
                     <div class="form-group">
@@ -45,6 +45,7 @@
                         </select>
                         <label for="nav_dest">导航至</label>
                         <input class="form-control" id="nav_dest" placeholder="导航目的地/逻辑位置">
+                        <input class="form-control" style="margin-top: 10px;" id="must_pass" placeholder="必经位置">
                         <h6 style="margin-top: 20px;">导航策略</h6>
                         <select class="form-control" id="nav_method" style="width: min-content; position: absolute; margin-top: -35px; margin-left: 70px;" onchange="SetNavMethod()">
                             <option>最短距离策略</option>
@@ -53,12 +54,15 @@
                             <option>交通工具的最短时间策略</option>
                         </select>
                         <button class="btn btn-success" style="margin-top: 10px;" id="nav_control" onclick="StartNav()">开始模拟 ➤</button>
+                        <button class="btn btn-primary" id="add_nav" style="margin-top: 10px;" onclick="AddNav()">添加导航</button>
                         <button class="btn btn-primary" id="get_facility_nearby" style="margin-top: 10px;" onclick="GetFacility()">获取周围设施</button>
+                        <button class="btn btn-primary" id="get_location" style="margin-top: 10px;" onclick="GetLocation()">获取当前位置</button>
                     </div>
                 </div>
 
                 <div class="col-md-3">
                     <h5>行程进度</h5>
+                    <div id="progressbar_area"></div>
                 </div>
 
                 <div class="col-md-6">

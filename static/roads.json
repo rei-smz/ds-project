@@ -1,0 +1,3574 @@
+{
+  "Road": [
+    {
+      "StartName": "鸿雁路1",
+      "EndName": "西门",
+      "Length": 10,
+      "IsBikeRoad": true
+    },
+    {
+      "StartName": "鸿雁路1",
+      "EndName": "基建处",
+      "Length": 5,
+      "IsBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路1",
+      "endName": "快递站",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路1",
+      "endName": "鸿雁路2",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路2",
+      "endName": "国脉西路2",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路2",
+      "endName": "鸿雁路3",
+      "length": 8,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路2",
+      "endName": "国脉西路3",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路3",
+      "endName": "信息楼S1",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路3",
+      "endName": "鸿雁路4",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路4",
+      "endName": "地下商超",
+      "length": 15,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路4",
+      "endName": "雁北D1",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路4",
+      "endName": "雁北绿地2",
+      "length": 17,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路4",
+      "endName": "鸿雁路5",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路5",
+      "endName": "学生食堂1",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路5",
+      "endName": "宿舍路1",
+      "length": 17,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路5",
+      "endName": "宿舍路2",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路5",
+      "endName": "鸿雁路6",
+      "length": 20,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路6",
+      "endName": "学活路1",
+      "length": 5,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路6",
+      "endName": "鸿雁路7",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "学活路1",
+      "endName": "学生食堂2",
+      "length": 5,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "学活路1",
+      "endName": "超市",
+      "length": 12,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "学活路1",
+      "endName": "运营商",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "学活路1",
+      "endName": "邮局",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "学活路1",
+      "endName": "学活中心",
+      "length": 12,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路7",
+      "endName": "邮局",
+      "length": 12,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路7",
+      "endName": "学活中心",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路7",
+      "endName": "鸿雁路8",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路8",
+      "endName": "雁北二路6",
+      "length": 20,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路8",
+      "endName": "图书馆",
+      "length": 7,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路8",
+      "endName": "国脉路1",
+      "length": 15,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路8",
+      "endName": "教学楼N",
+      "length": 5,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路8",
+      "endName": "鸿雁路9",
+      "length": 20,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路9",
+      "endName": "咖啡厅",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路9",
+      "endName": "雁北二路7",
+      "length": 20,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路9",
+      "endName": "鸿雁路10",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "鸿雁路10",
+      "endName": "学院楼北",
+      "length": 5,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路10",
+      "endName": "教学楼S1",
+      "length": 5,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "鸿雁路10",
+      "endName": "雁南一路3",
+      "length": 30,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北一路1",
+      "endName": "雁北E",
+      "length": 5,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北一路1",
+      "endName": "国脉西路1",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北一路1",
+      "endName": "雁北一路2",
+      "length": 20,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北一路2",
+      "endName": "雁北D2",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北一路2",
+      "endName": "雁北一路3",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北一路3",
+      "endName": "雁北一路4",
+      "length": 20,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北一路3",
+      "endName": "雁北二路4",
+      "length": 20,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北一路4",
+      "endName": "医务室",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北一路4",
+      "endName": "教工食堂2",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北一路4",
+      "endName": "雁北二路5",
+      "length": 20,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北一路4",
+      "endName": "雁北一路5",
+      "length": 20,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北一路5",
+      "endName": "雁北二路6",
+      "length": 20,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "国脉西路1",
+      "endName": "运动场",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "国脉西路1",
+      "endName": "雁北E",
+      "length": 5,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "国脉西路1",
+      "endName": "雁北二路1",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北二路1",
+      "endName": "国脉西路2",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北二路1",
+      "endName": "雁北二路2",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北二路2",
+      "endName": "雁北B",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路2",
+      "endName": "雁北绿地1",
+      "length": 9,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路2",
+      "endName": "雁北二路3",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北二路3",
+      "endName": "雁北C",
+      "length": 1,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路3",
+      "endName": "雁北D2",
+      "length": 17,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路3",
+      "endName": "雁北二路4",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北二路4",
+      "endName": "教工食堂1",
+      "length": 7,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路4",
+      "endName": "学生食堂4",
+      "length": 5,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路4",
+      "endName": "宿舍楼1",
+      "length": 3,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北二路4",
+      "endName": "雁北二路5",
+      "length": 20,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "宿舍路1",
+      "endName": "学生食堂4",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "宿舍路1",
+      "endName": "雁北绿地2",
+      "length": 12,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "宿舍路1",
+      "endName": "学生食堂1",
+      "length": 7,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路5",
+      "endName": "学生食堂3",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路5",
+      "endName": "教工食堂1",
+      "length": 15,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路5",
+      "endName": "教工食堂2",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路5",
+      "endName": "办公楼",
+      "length": 7,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路5",
+      "endName": "超市",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路5",
+      "endName": "运营商",
+      "length": 13,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路5",
+      "endName": "学活路1",
+      "length": 15,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北二路5",
+      "endName": "雁北二路6",
+      "length": 20,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北二路6",
+      "endName": "办公楼",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路6",
+      "endName": "自习室",
+      "length": 8,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路6",
+      "endName": "雁北二路7",
+      "length": 20,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北二路7",
+      "endName": "自习室",
+      "length": 12,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路7",
+      "endName": "东配楼",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北二路7",
+      "endName": "咖啡厅",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "国脉西路2",
+      "endName": "运动场",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "国脉西路2",
+      "endName": "雁北A",
+      "length": 5,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "国脉西路2",
+      "endName": "雁北绿地1",
+      "length": 7,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "国脉西路2",
+      "endName": "国脉西路1",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁北绿地1",
+      "endName": "雁北A",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北绿地1",
+      "endName": "雁北B",
+      "length": 7,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北绿地1",
+      "endName": "雁北绿地2",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁北绿地2",
+      "endName": "雁北D1",
+      "length": 7,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "国脉西路3",
+      "endName": "信息楼S1",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "国脉西路3",
+      "endName": "雁南草坪1",
+      "length": 7,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "宿舍路2",
+      "endName": "雁南S2",
+      "length": 7,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "宿舍路2",
+      "endName": "雁南草坪1",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "宿舍路2",
+      "endName": "宿舍路3",
+      "length": 14,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "宿舍路3",
+      "endName": "雁南S3",
+      "length": 6,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "宿舍路3",
+      "endName": "雁南草坪2",
+      "length": 17,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "宿舍路3",
+      "endName": "雁南一路1",
+      "length": 6,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁南一路1",
+      "endName": "雁南S4",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南一路1",
+      "endName": "雁南一路2",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁南一路1",
+      "endName": "宿舍路4",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁南一路2",
+      "endName": "教学楼S",
+      "length": 5,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南一路2",
+      "endName": "国脉路1",
+      "length": 15,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁南一路2",
+      "endName": "雁南一路3",
+      "length": 30,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁南一路2",
+      "endName": "雁南二路2",
+      "length": 16,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "国脉路1",
+      "endName": "教学楼N",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "国脉路1",
+      "endName": "教学楼S",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "国脉路1",
+      "endName": "报告厅",
+      "length": 15,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南一路3",
+      "endName": "教学楼S1",
+      "length": 25,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南一路3",
+      "endName": "实验楼",
+      "length": 5,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南一路3",
+      "endName": "雁南二路3",
+      "length": 16,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "宿舍路4",
+      "endName": "雁南S5",
+      "length": 6,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "宿舍路4",
+      "endName": "雁南草坪3",
+      "length": 32,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "宿舍路4",
+      "endName": "雁南二路1",
+      "length": 6,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁南二路1",
+      "endName": "雁南草坪4",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南二路1",
+      "endName": "雁南二路2",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁南二路2",
+      "endName": "雁南二路3",
+      "length": 30,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "雁南二路3",
+      "endName": "学院楼南",
+      "length": 5,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南草坪1",
+      "endName": "雁南S1",
+      "length": 13,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南草坪1",
+      "endName": "雁南草坪2",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南草坪2",
+      "endName": "雁南S3",
+      "length": 11,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南草坪2",
+      "endName": "雁南草坪3",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南草坪3",
+      "endName": "雁南S5",
+      "length": 26,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南草坪3",
+      "endName": "雁南草坪4",
+      "length": 30,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南草坪4",
+      "endName": "雁南S5",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南草坪4",
+      "endName": "雁南S6",
+      "length": 12,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路1",
+      "endName": "青年公寓",
+      "length": 25,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路1",
+      "endName": "公寓路3",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "西路1",
+      "endName": "西路2",
+      "length": 80,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "西路2",
+      "endName": "学十三公寓",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路2",
+      "endName": "学三公寓",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路2",
+      "endName": "公寓路5",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "西路2",
+      "endName": "西路3",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "西路3",
+      "endName": "学一公寓",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路3",
+      "endName": "鸿通楼",
+      "length": 25,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路3",
+      "endName": "本部邮局",
+      "length": 50,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路3",
+      "endName": "教四楼2",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路3",
+      "endName": "公寓路6",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "西路3",
+      "endName": "西路4",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "西路4",
+      "endName": "教四楼2",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路4",
+      "endName": "本部邮局",
+      "length": 70,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路4",
+      "endName": "移动营业厅",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路4",
+      "endName": "教学楼区1",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "西路4",
+      "endName": "西路5",
+      "length": 80,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "西路5",
+      "endName": "西门",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "西路5",
+      "endName": "校训石",
+      "length": 75,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路5",
+      "endName": "西路6",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "西路6",
+      "endName": "停车坪",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "西路6",
+      "endName": "教三楼2",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路6",
+      "endName": "教学楼区2",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "西路6",
+      "endName": "西路7",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "西路7",
+      "endName": "教三楼2",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路7",
+      "endName": "家属楼4",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西路7",
+      "endName": "主干道9",
+      "length": 150,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "公寓路1",
+      "endName": "学十公寓2",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路1",
+      "endName": "学十一公寓",
+      "length": 15,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路1",
+      "endName": "教九",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路1",
+      "endName": "北邮科技酒店",
+      "length": 75,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路1",
+      "endName": "主干道1",
+      "length": 115,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "公寓路1",
+      "endName": "公寓路2",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "公寓路2",
+      "endName": "学十公寓3",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路2",
+      "endName": "学九公寓",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路2",
+      "endName": "留学生公寓1",
+      "length": 30,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路2",
+      "endName": "留学生公寓2",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路2",
+      "endName": "综合食堂2",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路2",
+      "endName": "教九",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路2",
+      "endName": "主干道2",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "公寓路2",
+      "endName": "公寓路3",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "公寓路3",
+      "endName": "综合食堂2",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路3",
+      "endName": "留学生公寓2",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路3",
+      "endName": "主干道3",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "公寓路3",
+      "endName": "公寓路4",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "公寓路4",
+      "endName": "学五公寓",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路4",
+      "endName": "学八公寓",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路4",
+      "endName": "主干道4",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "公寓路4",
+      "endName": "公寓路5",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "公寓路5",
+      "endName": "学三公寓",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路5",
+      "endName": "学四公寓",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路5",
+      "endName": "主干道5",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "公寓路5",
+      "endName": "公寓路6",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "公寓路6",
+      "endName": "学一公寓",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路6",
+      "endName": "学二公寓",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "公寓路6",
+      "endName": "主干道6",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道1",
+      "endName": "北门",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道1",
+      "endName": "经管楼1",
+      "length": 50,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道1",
+      "endName": "经管楼2",
+      "length": 70,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道1",
+      "endName": "学十公寓1",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道1",
+      "endName": "主干道2",
+      "length": 80,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道2",
+      "endName": "学活中心1",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道2",
+      "endName": "经管楼2",
+      "length": 70,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道2",
+      "endName": "学十公寓3",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道2",
+      "endName": "学十公寓1",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道2",
+      "endName": "综合食堂1",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道2",
+      "endName": "主干道3",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道3",
+      "endName": "综合食堂1",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道3",
+      "endName": "生活区1",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道3",
+      "endName": "主干道4",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "生活区1",
+      "endName": "学活中心2",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "生活区1",
+      "endName": "澡堂",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "生活区1",
+      "endName": "联通营业厅",
+      "length": 50,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "生活区1",
+      "endName": "水房",
+      "length": 70,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "生活区1",
+      "endName": "学苑超市",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "生活区1",
+      "endName": "图片社",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "生活区1",
+      "endName": "茗香吧",
+      "length": 80,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "生活区1",
+      "endName": "MAAN咖啡",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "生活区1",
+      "endName": "东路2",
+      "length": 110,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "生活区1",
+      "endName": "生活区2",
+      "length": 80,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道4",
+      "endName": "学八公寓",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道4",
+      "endName": "主干道5",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道5",
+      "endName": "学四公寓",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道5",
+      "endName": "小松林",
+      "length": 15,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道5",
+      "endName": "时光广场",
+      "length": 110,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道5",
+      "endName": "生活区2",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道5",
+      "endName": "主干道6",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "生活区2",
+      "endName": "学生处心理健康教育中心",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "生活区2",
+      "endName": "学苑书屋",
+      "length": 70,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "生活区2",
+      "endName": "本部图书馆",
+      "length": 100,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "生活区2",
+      "endName": "东路3",
+      "length": 110,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道6",
+      "endName": "时光广场",
+      "length": 30,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道6",
+      "endName": "学二公寓",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道6",
+      "endName": "本部图书馆",
+      "length": 140,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道6",
+      "endName": "后勤楼",
+      "length": 30,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道6",
+      "endName": "行政办公楼",
+      "length": 80,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道6",
+      "endName": "教四楼1",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道6",
+      "endName": "教一楼1",
+      "length": 80,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道6",
+      "endName": "东路4",
+      "length": 150,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道6",
+      "endName": "主干道7",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道7",
+      "endName": "教一楼1",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道7",
+      "endName": "教四楼1",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道7",
+      "endName": "主席像",
+      "length": 90,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道7",
+      "endName": "国旗台",
+      "length": 80,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道7",
+      "endName": "教学楼区1",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道7",
+      "endName": "教学楼区3",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道7",
+      "endName": "主干道8",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "教学楼区1",
+      "endName": "教四楼3",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼区1",
+      "endName": "校训石",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼区1",
+      "endName": "主席像",
+      "length": 90,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼区1",
+      "endName": "教学楼区2",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "教学楼区3",
+      "endName": "教一楼3",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼区3",
+      "endName": "主楼",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼区3",
+      "endName": "教学楼区4",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "教学楼区3",
+      "endName": "东路5",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道8",
+      "endName": "国旗台",
+      "length": 80,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道8",
+      "endName": "主席像",
+      "length": 90,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道8",
+      "endName": "教二楼1",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道8",
+      "endName": "教三楼1",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道8",
+      "endName": "教学楼区2",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道8",
+      "endName": "教学楼区4",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道8",
+      "endName": "主干道9",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "教学楼区2",
+      "endName": "校训石",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼区2",
+      "endName": "主席像",
+      "length": 90,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼区2",
+      "endName": "教三楼3",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼区4",
+      "endName": "主楼",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼区4",
+      "endName": "教二楼3",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼区4",
+      "endName": "东路6",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道9",
+      "endName": "教二楼1",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道9",
+      "endName": "教三楼1",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道9",
+      "endName": "中门邮局",
+      "length": 15,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道9",
+      "endName": "中门",
+      "length": 30,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道9",
+      "endName": "东路7",
+      "length": 140,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道9",
+      "endName": "主干道10",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道10",
+      "endName": "中门",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道10",
+      "endName": "中门邮局",
+      "length": 35,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道10",
+      "endName": "校医院",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道10",
+      "endName": "零壹时光咖啡",
+      "length": 110,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道10",
+      "endName": "南区超市",
+      "length": 25,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道10",
+      "endName": "商店",
+      "length": 80,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道10",
+      "endName": "电信营业厅",
+      "length": 90,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道10",
+      "endName": "家属楼6",
+      "length": 120,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道10",
+      "endName": "北邮幼儿园",
+      "length": 190,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道10",
+      "endName": "南家属区",
+      "length": 230,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道10",
+      "endName": "主干道11",
+      "length": 160,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "南家属区",
+      "endName": "家属楼6",
+      "length": 110,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "南家属区",
+      "endName": "北邮幼儿园",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "南家属区",
+      "endName": "家属楼8",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "南家属区",
+      "endName": "明光楼出版社",
+      "length": 70,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道11",
+      "endName": "南区超市",
+      "length": 145,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道11",
+      "endName": "商店",
+      "length": 80,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道11",
+      "endName": "电信营业厅",
+      "length": 50,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道11",
+      "endName": "家属楼6",
+      "length": 50,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道11",
+      "endName": "家属楼7",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道11",
+      "endName": "家属楼9",
+      "length": 35,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道11",
+      "endName": "家属楼10",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道11",
+      "endName": "主干道12",
+      "length": 75,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "主干道12",
+      "endName": "家属楼7",
+      "length": 35,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道12",
+      "endName": "家属楼11",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道12",
+      "endName": "北京交通大学附属中学",
+      "length": 75,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "主干道12",
+      "endName": "南门",
+      "length": 40,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "东路1",
+      "endName": "学六公寓",
+      "length": 50,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路1",
+      "endName": "家属楼1",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路1",
+      "endName": "科研大楼1",
+      "length": 30,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路1",
+      "endName": "青年教师公寓",
+      "length": 100,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路1",
+      "endName": "家属楼2",
+      "length": 100,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路1",
+      "endName": "北家属区1",
+      "length": 150,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "东路1",
+      "endName": "东路2",
+      "length": 80,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "东路2",
+      "endName": "科研大楼2",
+      "length": 25,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路2",
+      "endName": "茗香吧",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路2",
+      "endName": "图片社",
+      "length": 50,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路2",
+      "endName": "学苑超市",
+      "length": 70,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路2",
+      "endName": "MAAN咖啡",
+      "length": 130,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路2",
+      "endName": "澡堂",
+      "length": 70,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路2",
+      "endName": "联通营业厅",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路2",
+      "endName": "水房",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路2",
+      "endName": "教工餐厅",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路2",
+      "endName": "本部学生食堂1",
+      "length": 70,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路2",
+      "endName": "东路3",
+      "length": 80,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "东路3",
+      "endName": "本部学生食堂1",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路3",
+      "endName": "本部学生食堂2",
+      "length": 35,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路3",
+      "endName": "教工餐厅",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路3",
+      "endName": "学苑书屋",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路3",
+      "endName": "本部图书馆",
+      "length": 130,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路3",
+      "endName": "家属楼3",
+      "length": 80,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路3",
+      "endName": "篮球场",
+      "length": 90,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路3",
+      "endName": "北家属区3",
+      "length": 100,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "东路3",
+      "endName": "东路4",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "东路4",
+      "endName": "篮球场",
+      "length": 30,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路4",
+      "endName": "本部图书馆",
+      "length": 130,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路4",
+      "endName": "行政办公楼",
+      "length": 80,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路4",
+      "endName": "教一楼2",
+      "length": 100,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路4",
+      "endName": "体育区1",
+      "length": 70,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "东路4",
+      "endName": "东路5",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "东路5",
+      "endName": "教一楼2",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路5",
+      "endName": "科学会堂1",
+      "length": 35,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路5",
+      "endName": "科学会堂2",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路5",
+      "endName": "体育区3",
+      "length": 70,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "东路5",
+      "endName": "东路6",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "东路6",
+      "endName": "科学会堂2",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路6",
+      "endName": "教二楼2",
+      "length": 70,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路6",
+      "endName": "体育区4",
+      "length": 70,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "东路6",
+      "endName": "东路7",
+      "length": 130,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "东路7",
+      "endName": "教二楼2",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路7",
+      "endName": "可信网络通信协同创新中心",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "东路7",
+      "endName": "体育区5",
+      "length": 80,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "北家属区1",
+      "endName": "青年教师公寓",
+      "length": 50,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "北家属区1",
+      "endName": "家属楼2",
+      "length": 50,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "北家属区1",
+      "endName": "家属楼1",
+      "length": 130,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "北家属区1",
+      "endName": "科研大楼1",
+      "length": 120,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "北家属区1",
+      "endName": "东北门",
+      "length": 10,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "北家属区1",
+      "endName": "北家属区2",
+      "length": 170,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "北家属区2",
+      "endName": "北家属区3",
+      "length": 50,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "北家属区3",
+      "endName": "保卫处",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "北家属区3",
+      "endName": "家属楼3",
+      "length": 30,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "北家属区3",
+      "endName": "本部学生食堂2",
+      "length": 75,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "北家属区3",
+      "endName": "体育区2",
+      "length": 70,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "体育区1",
+      "endName": "网球场",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "体育区1",
+      "endName": "排球场",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "体育区1",
+      "endName": "体育馆2",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "体育区1",
+      "endName": "体育区2",
+      "length": 30,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "体育区1",
+      "endName": "体育区3",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "体育区2",
+      "endName": "体育馆1",
+      "length": 15,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "体育区2",
+      "endName": "学二十九公寓",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "体育区2",
+      "endName": "东门",
+      "length": 50,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "体育区2",
+      "endName": "游泳馆",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "体育区3",
+      "endName": "体育馆2",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "体育区3",
+      "endName": "科学会堂1",
+      "length": 35,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "体育区3",
+      "endName": "体育场",
+      "length": 100,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "体育区3",
+      "endName": "体育区4",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "体育区4",
+      "endName": "体育场",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "体育区4",
+      "endName": "体育区5",
+      "length": 120,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "体育区5",
+      "endName": "可信网络通信协同创新中心",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "西门",
+      "endName": "本部西门",
+      "length": 22500,
+      "isBikeRoad": true
+    },
+    {
+      "startName": "教学楼N",
+      "endName": "教学楼N-地下1层",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N",
+      "endName": "教学楼N-2层",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N",
+      "endName": "教学楼N-1层-N107",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N107",
+      "endName": "教学楼N-1层-N105",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N107",
+      "endName": "教学楼N-1层-N108",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N105",
+      "endName": "教学楼N-1层-N103",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N105",
+      "endName": "教学楼N-1层-N106",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N103",
+      "endName": "教学楼N-1层-N101",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N103",
+      "endName": "教学楼N-1层-N104",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N101",
+      "endName": "教学楼N-1层-N102",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N",
+      "endName": "教学楼N-1层-N108",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N108",
+      "endName": "教学楼N-1层-N106",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N106",
+      "endName": "教学楼N-1层-N104",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N104",
+      "endName": "教学楼N-1层-N102",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N",
+      "endName": "教学楼N-1层-N109",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N109",
+      "endName": "教学楼N-1层-N111",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N109",
+      "endName": "教学楼N-1层-N110",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N111",
+      "endName": "教学楼N-1层-N113",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N111",
+      "endName": "教学楼N-1层-N112",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N113",
+      "endName": "教学楼N-1层-N115",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N113",
+      "endName": "教学楼N-1层-N114",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N115",
+      "endName": "教学楼N-1层-N116",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N",
+      "endName": "教学楼N-1层-N110",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N110",
+      "endName": "教学楼N-1层-N112",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N112",
+      "endName": "教学楼N-1层-N114",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N114",
+      "endName": "教学楼N-1层-N116",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层",
+      "endName": "教学楼N-3层",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层",
+      "endName": "教学楼N-2层-N205",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N205",
+      "endName": "教学楼N-2层-N203",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N205",
+      "endName": "教学楼N-2层-N206",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N203",
+      "endName": "教学楼N-2层-N201",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N203",
+      "endName": "教学楼N-2层-N204",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N201",
+      "endName": "教学楼N-2层-N202",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层",
+      "endName": "教学楼N-2层-N206",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N206",
+      "endName": "教学楼N-2层-N204",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N204",
+      "endName": "教学楼N-2层-N202",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层",
+      "endName": "教学楼N-2层-N207",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N207",
+      "endName": "教学楼N-2层-N209",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N207",
+      "endName": "教学楼N-2层-N208",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N209",
+      "endName": "教学楼N-2层-N211",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N209",
+      "endName": "教学楼N-2层-N210",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N211",
+      "endName": "教学楼N-2层-N213",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N211",
+      "endName": "教学楼N-2层-N212",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N213",
+      "endName": "教学楼N-2层-N214",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层",
+      "endName": "教学楼N-2层-N208",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N208",
+      "endName": "教学楼N-2层-N210",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N210",
+      "endName": "教学楼N-2层-N212",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N212",
+      "endName": "教学楼N-2层-N214",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层",
+      "endName": "教学楼N-4层",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层",
+      "endName": "教学楼N-3层-N303",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N303",
+      "endName": "教学楼N-3层-N301",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N303",
+      "endName": "教学楼N-3层-N304",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N301",
+      "endName": "教学楼N-3层-N302",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层",
+      "endName": "教学楼N-3层-N304",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N304",
+      "endName": "教学楼N-3层-N302",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层",
+      "endName": "教学楼N-3层-N305",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N305",
+      "endName": "教学楼N-3层-N307",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N305",
+      "endName": "教学楼N-3层-N306",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N307",
+      "endName": "教学楼N-3层-N309",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N307",
+      "endName": "教学楼N-3层-N308",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N309",
+      "endName": "教学楼N-3层-N311",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N309",
+      "endName": "教学楼N-3层-N310",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N311",
+      "endName": "教学楼N-3层-N312",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层",
+      "endName": "教学楼N-3层-N306",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N306",
+      "endName": "教学楼N-3层-N308",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N308",
+      "endName": "教学楼N-3层-N310",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N310",
+      "endName": "教学楼N-3层-N312",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层",
+      "endName": "教学楼N-4层-N401",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层-N401",
+      "endName": "教学楼N-4层-N402",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层",
+      "endName": "教学楼N-4层-N402",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层",
+      "endName": "教学楼N-4层-N403",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层",
+      "endName": "教学楼N-4层-N404",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层-N403",
+      "endName": "教学楼N-4层-N405",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层-N403",
+      "endName": "教学楼N-4层-N404",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层-N405",
+      "endName": "教学楼N-4层-N407",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层-N405",
+      "endName": "教学楼N-4层-N406",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层-N407",
+      "endName": "教学楼N-4层-N409",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层-N407",
+      "endName": "教学楼N-4层-N408",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层-N409",
+      "endName": "教学楼N-4层-N410",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层-N404",
+      "endName": "教学楼N-4层-N406",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层-N406",
+      "endName": "教学楼N-4层-N408",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层-N408",
+      "endName": "教学楼N-4层-N410",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S",
+      "endName": "教学楼S-地下1层",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S",
+      "endName": "教学楼S-1层-S107",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S107",
+      "endName": "教学楼S-1层-S105",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S107",
+      "endName": "教学楼S-1层-S108",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S105",
+      "endName": "教学楼S-1层-S103",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S105",
+      "endName": "教学楼S-1层-S106",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S103",
+      "endName": "教学楼S-1层-S101",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S103",
+      "endName": "教学楼S-1层-S104",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S101",
+      "endName": "教学楼S-1层-S102",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S",
+      "endName": "教学楼S-1层-S108",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S108",
+      "endName": "教学楼S-1层-S106",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S106",
+      "endName": "教学楼S-1层-S104",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S104",
+      "endName": "教学楼S-1层-S102",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S",
+      "endName": "教学楼S-1层-S109",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S109",
+      "endName": "教学楼S-1层-S111",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S109",
+      "endName": "教学楼S-1层-S110",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S111",
+      "endName": "教学楼S-1层-S113",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S111",
+      "endName": "教学楼S-1层-S112",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S113",
+      "endName": "教学楼S-1层-S115",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S113",
+      "endName": "教学楼S-1层-S114",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S115",
+      "endName": "教学楼S-1层-S116",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S",
+      "endName": "教学楼S-1层-S110",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S110",
+      "endName": "教学楼S-1层-S112",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S112",
+      "endName": "教学楼S-1层-S114",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-1层-S114",
+      "endName": "教学楼S-1层-S116",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层",
+      "endName": "教学楼S-3层",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层",
+      "endName": "教学楼S-2层-S205",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S205",
+      "endName": "教学楼S-2层-S203",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S205",
+      "endName": "教学楼S-2层-S206",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S203",
+      "endName": "教学楼S-2层-S201",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S203",
+      "endName": "教学楼S-2层-S204",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S201",
+      "endName": "教学楼S-2层-S202",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层",
+      "endName": "教学楼S-2层-S206",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S206",
+      "endName": "教学楼S-2层-S204",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S204",
+      "endName": "教学楼S-2层-S202",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层",
+      "endName": "教学楼S-2层-S207",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S207",
+      "endName": "教学楼S-2层-S209",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S207",
+      "endName": "教学楼S-2层-S208",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S209",
+      "endName": "教学楼S-2层-S211",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S209",
+      "endName": "教学楼S-2层-S210",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S211",
+      "endName": "教学楼S-2层-S213",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S211",
+      "endName": "教学楼S-2层-S212",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S213",
+      "endName": "教学楼S-2层-S214",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层",
+      "endName": "教学楼S-2层-S208",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S208",
+      "endName": "教学楼S-2层-S210",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S210",
+      "endName": "教学楼S-2层-S212",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-2层-S212",
+      "endName": "教学楼S-2层-S214",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层",
+      "endName": "教学楼S-4层",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层",
+      "endName": "教学楼S-3层-S303",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层-S303",
+      "endName": "教学楼S-3层-S301",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层-S303",
+      "endName": "教学楼S-3层-S304",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层-S301",
+      "endName": "教学楼S-3层-S302",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层",
+      "endName": "教学楼S-3层-S304",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层-S304",
+      "endName": "教学楼S-3层-S302",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层",
+      "endName": "教学楼S-3层-S305",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层-S305",
+      "endName": "教学楼S-3层-S307",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层-S305",
+      "endName": "教学楼S-3层-S306",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层-S307",
+      "endName": "教学楼S-3层-S309",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层-S307",
+      "endName": "教学楼S-3层-S308",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层-S309",
+      "endName": "教学楼S-3层-S311",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层-S309",
+      "endName": "教学楼S-3层-S310",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层-S311",
+      "endName": "教学楼S-3层-S312",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层",
+      "endName": "教学楼S-3层-S306",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层-S306",
+      "endName": "教学楼S-3层-S308",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层-S308",
+      "endName": "教学楼S-3层-S310",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-3层-S310",
+      "endName": "教学楼S-3层-S312",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层",
+      "endName": "教学楼S-4层-S401",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层",
+      "endName": "教学楼S-4层-S402",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层-S401",
+      "endName": "教学楼S-4层-S402",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层",
+      "endName": "教学楼S-4层-S403",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层",
+      "endName": "教学楼S-4层-S404",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层-S403",
+      "endName": "教学楼S-4层-S405",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层-S403",
+      "endName": "教学楼S-4层-S404",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层-S405",
+      "endName": "教学楼S-4层-S407",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层-S405",
+      "endName": "教学楼S-4层-S406",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层-S407",
+      "endName": "教学楼S-4层-S409",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层-S407",
+      "endName": "教学楼S-4层-S408",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层-S409",
+      "endName": "教学楼S-4层-S410",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层-S404",
+      "endName": "教学楼S-4层-S406",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层-S406",
+      "endName": "教学楼S-4层-S408",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼S-4层-S408",
+      "endName": "教学楼S-4层-S410",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-1层-N115",
+      "endName": "教学楼S-1层-S115",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-2层-N213",
+      "endName": "教学楼S-2层-S213",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-3层-N311",
+      "endName": "教学楼S-3层-S311",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "教学楼N-4层-N409",
+      "endName": "教学楼S-4层-S409",
+      "length": 40,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "图书馆",
+      "endName": "图书馆-2层",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "图书馆",
+      "endName": "图书馆-1层-N",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "图书馆",
+      "endName": "图书馆-1层-S",
+      "length": 15,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "图书馆-2层",
+      "endName": "图书馆-3层",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "图书馆-2层",
+      "endName": "图书馆-2层-N",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "图书馆-2层",
+      "endName": "图书馆-2层-S",
+      "length": 15,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "图书馆-3层",
+      "endName": "图书馆-4层",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "图书馆-3层",
+      "endName": "图书馆-3层-N",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "图书馆-3层",
+      "endName": "图书馆-3层-S",
+      "length": 15,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "图书馆-4层",
+      "endName": "图书馆-5层",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "图书馆-4层",
+      "endName": "图书馆-4层-N",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "图书馆-4层",
+      "endName": "图书馆-4层-S",
+      "length": 15,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "图书馆-5层",
+      "endName": "图书馆-5层-N",
+      "length": 20,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "图书馆-5层",
+      "endName": "图书馆-5层-S",
+      "length": 15,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4",
+      "endName": "雁南S4-2楼-楼梯间1",
+      "length": 15,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4",
+      "endName": "雁南S4-2楼-楼梯间2",
+      "length": 60,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-楼梯间1",
+      "endName": "雁南S4-2楼-电梯",
+      "length": 5,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-楼梯间1",
+      "endName": "雁南S4-2楼-201",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-楼梯间1",
+      "endName": "雁南S4-2楼-淋浴间",
+      "length": 10,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-楼梯间1",
+      "endName": "雁南S4-2楼-203",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-201",
+      "endName": "雁南S4-2楼-202",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-201",
+      "endName": "雁南S4-2楼-淋浴间",
+      "length": 5,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-203",
+      "endName": "雁南S4-2楼-204",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-204",
+      "endName": "雁南S4-2楼-205",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-205",
+      "endName": "雁南S4-2楼-207",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-205",
+      "endName": "雁南S4-2楼-206",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-207",
+      "endName": "雁南S4-2楼-209",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-207",
+      "endName": "雁南S4-2楼-208",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-209",
+      "endName": "雁南S4-2楼-211",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-209",
+      "endName": "雁南S4-2楼-210",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-211",
+      "endName": "雁南S4-2楼-213",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-211",
+      "endName": "雁南S4-2楼-212",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-213",
+      "endName": "雁南S4-2楼-215",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-213",
+      "endName": "雁南S4-2楼-214",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-215",
+      "endName": "雁南S4-2楼-217",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-215",
+      "endName": "雁南S4-2楼-216",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-217",
+      "endName": "雁南S4-2楼-219",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-217",
+      "endName": "雁南S4-2楼-218",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-219",
+      "endName": "雁南S4-2楼-221",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-219",
+      "endName": "雁南S4-2楼-220",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-221",
+      "endName": "雁南S4-2楼-222",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-222",
+      "endName": "雁南S4-2楼-223",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-淋浴间",
+      "endName": "雁南S4-2楼-卫生间",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-卫生间",
+      "endName": "雁南S4-2楼-水房",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-水房",
+      "endName": "雁南S4-2楼-224",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-水房",
+      "endName": "雁南S4-2楼-226",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-226",
+      "endName": "雁南S4-2楼-225",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-226",
+      "endName": "雁南S4-2楼-228",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-228",
+      "endName": "雁南S4-2楼-227",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-228",
+      "endName": "雁南S4-2楼-230",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-230",
+      "endName": "雁南S4-2楼-229",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-230",
+      "endName": "雁南S4-2楼-232",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-232",
+      "endName": "雁南S4-2楼-231",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-232",
+      "endName": "雁南S4-2楼-234",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-234",
+      "endName": "雁南S4-2楼-233",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-234",
+      "endName": "雁南S4-2楼-236",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-236",
+      "endName": "雁南S4-2楼-235",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-236",
+      "endName": "雁南S4-2楼-238",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-238",
+      "endName": "雁南S4-2楼-237",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-238",
+      "endName": "雁南S4-2楼-240",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-240",
+      "endName": "雁南S4-2楼-239",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-240",
+      "endName": "雁南S4-2楼-242",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-242",
+      "endName": "雁南S4-2楼-241",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-242",
+      "endName": "雁南S4-2楼-楼梯间2",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-楼梯间2",
+      "endName": "雁南S4-2楼-243",
+      "length": 2,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-楼梯间2",
+      "endName": "雁南S4-2楼-自习室",
+      "length": 3,
+      "isBikeRoad": false
+    },
+    {
+      "startName": "雁南S4-2楼-自习室",
+      "endName": "雁南S4-2楼-244",
+      "length": 2,
+      "isBikeRoad": false
+    }
+  ]
+}
